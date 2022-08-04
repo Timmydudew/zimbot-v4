@@ -7,7 +7,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮WHATSAPP US : +2348050261876
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -33,18 +33,18 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
-global.sessionName = 'session' //session name
+global.owner = ['2348050261876','233500396765'] //owner number +2348050261876
+global.wame = ['2348050261876'] 
+global.pemilik = ['2348050261876'] //owner number +2348050261876
+global.premium = ['2348050261876'] //premium number +2348050261876
+global.pengguna = 'Timmy' //username
+global.footer = 'Timmy'
+global.botnma = 'Timmy' //bot name
+global.botname = 'Timmy'
+global.ownernma = 'Timmy' //owner name
+global.packname = 'Timmy' //sticker package name
+global.author = 'Timmy' //sticker author name
+global.sessionName = 'bot' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
